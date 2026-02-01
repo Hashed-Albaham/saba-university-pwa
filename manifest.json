@@ -1,0 +1,34 @@
+{
+    "name": "جامعة سبأ - بوابة القبول",
+    "short_name": "جامعة سبأ",
+    "description": "بوابة التسجيل والقبول في جامعة سبأ - الريادة في التعليم العالي",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#0d253f",
+    "theme_color": "#1e3a5f",
+    "orientation": "portrait-primary",
+    "lang": "ar",
+    "dir": "rtl",
+    "categories": [
+        "education",
+        "university"
+    ],
+    "icons": [
+        {
+            "src": "./icons/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./icons/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+    ],
+    "screenshots": [],
+    "related_applications": [],
+    "prefer_related_applications": false
+}
